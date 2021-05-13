@@ -1,5 +1,6 @@
-# NLP & Clinical Notes
+# Machine Learning Medical Transcription Project
 
+![](hospital.gif)
 
 # Topic Selection
 
